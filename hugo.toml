@@ -72,7 +72,7 @@ enableRobotsTXT = true
   togglePreviousAndNextButtons = "true"
 
   socialIcons = [
-      {name = "facebook", url = "https://github.com/kongpf8848"},
+      {name = "facebook", url = "https://www.facebook.com/jack.kong.5623"},
       {name = "email", url = "mailto:kongpf8848@gmail.com"},
       {name = "github", url = "https://github.com/kongpf8848"},
     ]
