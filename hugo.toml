@@ -43,7 +43,7 @@ enableRobotsTXT = true
 
 [params]
   # URL for the avatar on homepage
-  avatarURL = "/images/avatar.jpg"
+  avatarURL = "/images/avatar.webp"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = "size-l"
@@ -70,3 +70,9 @@ enableRobotsTXT = true
   footer = "kongpf8848"
 
   togglePreviousAndNextButtons = "true"
+
+  socialIcons = [
+      {name = "facebook", url = "https://github.com/kongpf8848"},
+      {name = "email", url = "mailto:kongpf8848@gmail.com"},
+      {name = "github", url = "https://github.com/kongpf8848"},
+    ]
