@@ -101,3 +101,31 @@ Sincerely,
 Department: Books
 
 Order intent: Refund
+
+# 总结文章
+
+> Provide a summary of the text below that captures its main idea.
+
+## 输入
+Provide a summary of the text below that captures its main idea.
+
+At Microsoft, we have been on a quest to advance AI beyond existing techniques, by taking a more holistic, human-centric approach to learning and understanding. As Chief Technology Officer of Azure AI Cognitive Services, I have been working with a team of amazing scientists and engineers to turn this quest into a reality. In my role, I enjoy a unique perspective in viewing the relationship among three attributes of human cognition: monolingual text (X), audio or visual sensory signals, (Y) and multilingual (Z). At the intersection of all three, there’s magic—what we call XYZ-code as illustrated in Figure 1—a joint representation to create more powerful AI that can speak, hear, see, and understand humans better. We believe XYZ-code will enable us to fulfill our long-term vision: cross-domain transfer learning, spanning modalities and languages. The goal is to have pre-trained models that can jointly learn representations to support a broad range of downstream AI tasks, much in the way humans do today. Over the past five years, we have achieved human performance on benchmarks in conversational speech recognition, machine translation, conversational question answering, machine reading comprehension, and image captioning. These five breakthroughs provided us with strong signals toward our more ambitious aspiration to produce a leap in AI capabilities, achieving multi-sensory and multilingual learning that is closer in line with how humans learn and understand. I believe the joint XYZ-code is a foundational component of this aspiration, if grounded with external knowledge sources in the downstream AI tasks.
+
+## 输出
+
+The main idea of the text is that Microsoft is working on advancing AI by taking a more human-centric approach to learning and understanding. They are developing a joint representation called XYZ-code, which combines monolingual text, audio or visual signals, and multilingual capabilities. The goal is to create more powerful AI that can speak, hear, see, and understand humans better. Microsoft has already achieved human-level performance in various AI tasks and believes that the XYZ-code will enable them to fulfill their long-term vision of cross-domain transfer learning.
+
+# 对文本进行分类
+> Classify the following news headline into 1 of the following categories: Business, Tech, Politics, Sport, Entertainment
+
+## 输入
+Classify the following news headline into 1 of the following categories: Business, Tech, Politics, Sport, Entertainment
+
+Headline 1: Donna Steffensen Is Cooking Up a New Kind of Perfection. The Internet's most beloved cooking guru has a buzzy new book and a fresh new perspective
+Category: Entertainment
+
+Headline 2: Major Retailer Announces Plans to Close Over 100 Stores
+Category:
+
+## 输出
+Business
